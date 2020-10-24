@@ -1,6 +1,7 @@
 ---
 name: App misbehavior report
-about: Let us know about an app not working as intended when used with microG (e.g. crashes, shows error, doesn't load)
+about: Let us know about an app not working as intended when used with microG (e.g.
+  crashes, shows error, doesn't load)
 title: "[<package-id>] <title>"
 labels: ''
 assignees: ''

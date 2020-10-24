@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Generic bug report
 about: Let us know about something not working as expected
 title: ''
 labels: bug

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: ''
+about: Let us know about something in microG not working as intended
 title: ''
 labels: ''
 assignees: ''

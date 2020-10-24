@@ -10,6 +10,7 @@ assignees: ''
 **Affected app**
 Name: [e.g. WhatsApp]
 Package id: [e.g. com.whatsapp]
+<!-- You can find the package id in the URL of the Play Store page, e.g. https://play.google.com/store/apps/details?id=com.whatsapp -->
 
 **Describe the bug**
 A clear and concise description of what the bug is.

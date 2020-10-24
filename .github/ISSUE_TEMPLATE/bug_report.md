@@ -2,7 +2,7 @@
 name: Bug report
 about: Let us know about something in microG not working as intended
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---

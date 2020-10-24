@@ -1,6 +1,6 @@
 ---
-name: App misbehaving
-about: Let us know about an app not working as intended with microG
+name: Report app misbehavior
+about: Let us know about an app not working as intended when used with microG
 title: "[<package-id>] <title>"
 labels: ''
 assignees: ''
